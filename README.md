@@ -15,5 +15,5 @@ Recalculation: Computes the product and sum of the updated tensors to observe th
 
 Requirements
   Python 3.x
-  tinygrad library (installation instructions below)
+  tinygrad library
   numpy library
